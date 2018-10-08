@@ -15,7 +15,7 @@
        <p class="lead">Check out our products at Shust Solutions.</p>
      </div>
 <?php include '../header.php'?>
-<div class="border border-dark rounded p-4 m-5 bg h-75" style="background-color: #eee; width:1000px;">
+<div class="border border-dark rounded p-4 m-5 bg" style="background-color: #eee; height:390px; width:1000px;">
    <h1 class="display-4">This site is currently under development.</h1>
    <p class="lead">Contact for more information.</p>
    <br>
@@ -28,7 +28,7 @@
 <b>Vent Mufflers </b>-<i>No longer will you have to say "They can hear us through the vent."</i> <br>
 <br>
 <b>Pencils, pens, lead, calculators, erasers, sharpies, etc. </b>-<i>SS only makes the highest quality items.</i>
-<br><br>
+<br>
 
 <small><i>Dev Info: Collapsible implemented with jquery and popper linked through script.</i></small>
 </div>

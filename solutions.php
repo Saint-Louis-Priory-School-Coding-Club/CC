@@ -15,7 +15,7 @@
        <p class="lead">Always one step ahead.</p>
      </div>
 <?php include '../header.php'?>
-<div class="border border-dark rounded p-4 m-5 bg h-75" style="background-color: #eee; width:1000px;">
+<div class="border border-dark rounded p-4 m-5 bg" style="background-color: #eee; height:390px; width:1000px;">
    <h1 class="display-4">This site is currently under development.</h1>
    <p class="lead">Contact for more information. </p>
    <br>
