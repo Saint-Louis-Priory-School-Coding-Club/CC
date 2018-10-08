@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <?php include'../favicon.php'; ?>
+   <?php include'../favicon.php'; ?>
     <title>Shust Solutions - Solutions</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,11 +15,11 @@
        <p class="lead">Always one step ahead.</p>
      </div>
 <?php include '../header.php'?>
-<div class="border border-dark rounded p-4 m-5 bg h-50" style="background-color: #eee; width:1000px;">
-   <h1 class="display-4">This site is currently under development</h1>
-   <p class="lead">Contact for more information </p>
+<div class="border border-dark rounded p-4 m-5 bg h-75" style="background-color: #eee; width:1000px;">
+   <h1 class="display-4">This site is currently under development.</h1>
+   <p class="lead">Contact for more information. </p>
    <br>
-   <h3>Solutions tab </h3>
+
 
 
 

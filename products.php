@@ -15,17 +15,22 @@
        <p class="lead">Check out our products at Shust Solutions.</p>
      </div>
 <?php include '../header.php'?>
-<div class="border border-dark rounded p-4 m-5 bg h-50" style="background-color: #eee; width:1000px;">
-   <h1 class="display-4">This site is currently under development</h1>
-   <p class="lead">Contact for more information </p>
+<div class="border border-dark rounded p-4 m-5 bg h-75" style="background-color: #eee; width:1000px;">
+   <h1 class="display-4">This site is currently under development.</h1>
+   <p class="lead">Contact for more information.</p>
    <br>
-   <h3>Products tab </h3>
 
 
+<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#comingsoon">Coming Soon:</button>
+<div id="comingsoon" class="collapse"> <br>
+<b>Custom Geometers </b>-<i>Feel cool at school with the Georuler or Geoyardstick.</i> <br>
+<br>
+<b>Vent Mufflers </b>-<i>No longer will you have to say "They can hear us through the vent."</i> <br>
+<br>
+<b>Pencils, pens, lead, calculators, erasers, sharpies, etc. </b>-<i>SS only makes the highest quality items.</i>
+<br><br>
 
-<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">Collapsible</button>
-<div id="demo" class="collapse">
-Collapsible successfully implemented with jquery and popper added.
+<small><i>Dev Info: Collapsible implemented with jquery and popper linked through script.</i></small>
 </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
